@@ -1,9 +1,34 @@
-# vue-example
+# tk-vue3
 
-## svg-icon
+## todo-list
 
-## commit-lint
+### base
 
-## sass
+- [ ] router
+- [ ] pinia
+- [ ] i18n
+- [ ] mockjs
 
-## axios
+### components
+
+- [ ] svg-icon
+- [ ] tk-img
+
+### plugins
+
+- [ ] scss
+
+### config
+
+- [ ] commitlint
+- [ ] changlog
+- [ ]
+
+### ci/cd
+
+- [ ] npm version - x.x.x-beta
+
+### other
+
+- [ ] ts
+- [ ] unocss
